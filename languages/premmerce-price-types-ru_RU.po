@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Prices By User Role\n"
+"POT-Creation-Date: 2019-04-25 19:25+0300\n"
+"PO-Revision-Date: 2019-04-25 19:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/Admin/Admin.php:105 src/Admin/Admin.php:106 src/Admin/Admin.php:187
+msgid "Prices"
+msgstr "Дополнительные цены"
+
+#: src/Admin/Admin.php:190
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: src/Admin/Admin.php:192
+msgid "Account"
+msgstr "Аккаунт"
+
+#: src/Admin/Admin.php:246 src/Admin/Admin.php:270 src/Admin/Admin.php:287
+msgid "Error."
+msgstr "Ошибка."
+
+#: src/Admin/Admin.php:262
+msgid "Price type updated."
+msgstr "Тип цены обновлен."
+
+#: src/Admin/Admin.php:266
+msgid "Back to Premmerce Wholesale Pricing for WooCommerce"
+msgstr "Назад к  Premmerce Wholesale Pricing for WooCommerce"
+
+#: src/Admin/Admin.php:285
+msgid "Deleted."
+msgstr "Удалено."
+
+#: src/Admin/Admin.php:410
+msgid "Name is empty."
+msgstr "Название не заполнено."
+
+#: src/Admin/Admin.php:414
+msgid "No one role selected."
+msgstr "Не выбрана ни одна роль."
+
+#: src/Admin/Admin.php:422
+msgid "You attempted to edit an item that doesn’t exist. Perhaps it was deleted?"
+msgstr "Вы попытались отредактировать несуществующий элемент. Может быть, он удалён?"
+
+#: src/Admin/PriceTypesTable.php:30
+msgid "types"
+msgstr "типы"
+
+#: src/Admin/PriceTypesTable.php:31
+msgid "type"
+msgstr "тип"
+
+#: src/Admin/PriceTypesTable.php:46
+msgid "No price tipes found."
+msgstr "Типы цен не найдены."
+
+#: src/Admin/PriceTypesTable.php:99 views/admin/edit.php:21
+#: views/admin/list.php:23 views/admin/tabs/list.php:18
+msgid "Name"
+msgstr "Название"
+
+#: src/Admin/PriceTypesTable.php:100 views/admin/edit.php:31
+#: views/admin/list.php:29 views/admin/tabs/list.php:24
+msgid "Roles"
+msgstr "Роли"
+
+#: src/Admin/PriceTypesTable.php:112 src/Admin/PriceTypesTable.php:149
+#: views/admin/edit.php:53
+msgid "Delete"
+msgstr "Удалить"
+
+#: src/Admin/PriceTypesTable.php:142
+msgid "Edit"
+msgstr "Изменить"
+
+#: src/PriceTypesPlugin.php:95
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Для работы плагина %s нужен плагин %s"
+
+#: views/admin/edit.php:9
+msgid "Edit price type"
+msgstr "Изменить тип цены"
+
+#: views/admin/edit.php:26 views/admin/list.php:25 views/admin/tabs/list.php:20
+msgid "Price type name"
+msgstr "Название типа цены"
+
+#: views/admin/edit.php:40 views/admin/list.php:35 views/admin/tabs/list.php:30
+msgid "Select roles to this price type"
+msgstr "Выберите роли для этого типа цены"
+
+#: views/admin/edit.php:49
+msgid "Update"
+msgstr "Обновить"
+
+#: views/admin/list.php:20 views/admin/list.php:39 views/admin/tabs/list.php:15
+#: views/admin/tabs/list.php:33
+msgid "Add new price type"
+msgstr "Добавить новый тип цены"
+
+#: views/admin/main.php:8
+msgid "Premmerce Wholesale Pricing for WooCommerce"
+msgstr ""
+
+#~ msgid "Back to Premmerce Woocommerce Wholesale Pricing"
+#~ msgstr "Назад к Premmerce Woocommerce Wholesale Pricing"
+
+#~ msgid "Premmerce Woocommerce Wholesale Pricing"
+#~ msgstr "Premmerce Woocommerce Wholesale Pricing"
+
+#~ msgid "Back to Woocommerce Prices By User Role"
+#~ msgstr "Назад к Woocommerce Prices By User Role"
+
+#~ msgid "Add new"
+#~ msgstr "Добавить новый"
+
+#~ msgid "Created."
+#~ msgstr "Создано."
+
+#~ msgid "Price type ID not exist."
+#~ msgstr "ID типа цены не существует."
+
+#~ msgid "Id"
+#~ msgstr "Номер"
+
+#~ msgid "Price typess"
+#~ msgstr "Типы цен11"
